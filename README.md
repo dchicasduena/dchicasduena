@@ -9,6 +9,5 @@ I am a recent computer science graduate from Memorial University of Newfoundland
 - **automata** - helped on a discord bot for muncss
 
 ## contact info
-discord as **dech89**
-
+discord as **dech89**\
 email at **davidchicas614** at **gmail.com**
