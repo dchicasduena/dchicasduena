@@ -1,7 +1,7 @@
 # [david chicas](https://davidchicas.me)
 
 ## about me
-Recent computer science graduate from Memorial University of Newfoundland. I am currently looking for work so please feel free to contact me with any opportunities!
+Recent computer science graduate from Memorial University of Newfoundland.
 
 ## projects
 - **thirty five mm** - a portfolio of pictures i've taken, mostly in 35mm film
